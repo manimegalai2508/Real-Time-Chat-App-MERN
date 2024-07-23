@@ -13,7 +13,7 @@
 
 ## Demo
 
-Check out the live demo [here]( ).
+Check out the live demo [here](https://chat-app-mern-2fzb.onrender.com).
 
 ## Project Structure
 
